@@ -1,6 +1,6 @@
-drop database if exists bd_olimpiada;
-create database bd_olimpiada;
-use bd_olimpiada;
+drop database if exists olimpiadas;
+create database olimpiadas;
+use olimpiadas;
 
 create table Olimpiada (
 Cod_Olimpiada varchar (10) not null,
